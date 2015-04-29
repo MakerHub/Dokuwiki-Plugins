@@ -1,0 +1,147 @@
+.landingpage
+{
+	background-color: white;
+	margin: auto;
+	padding: 50px;
+	width: 80%;   
+}
+
+.bg
+{
+	background-color: 565656;   
+}
+
+.container
+{
+	width: 100%;
+}
+
+.title
+{
+    width: 50%;
+    max-width: 720px;
+}
+
+.title h1
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 300%;
+    color: #828282;   
+}
+
+.videoWrapper
+{
+	width: 50%;
+	max-width: 720px;
+	min-width: 450px;
+	float:left;
+}
+
+.videoContainer
+{
+	position:relative;
+	padding-bottom:56.25%;
+	min-width: 450px;
+	height:0px;
+	overflow:hidden;
+}
+.videoContainer iframe
+{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+}
+
+.description
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	min-width: 450px;
+}
+
+.productDescription
+{	
+	width:45%;
+	min-width: 450px;
+	padding-left: 2%;
+	padding-right: 2%;
+	font-family: Helvetica, Arial, sans-serif;	
+	float:left;	
+}
+
+.productDescription h1 {
+    font-family: Helvetica, Arial, sans-serif;
+	font-size: 150%;
+    margin-top: 0px;
+	margin-left: 25px;
+}
+
+.footer
+{
+	clear: left;
+}
+
+.buttonContainer
+{
+	padding-top: 20px;
+}
+
+.buttonContainer .btn
+{
+	display: block;
+	width: 80%;	
+	min-width: 270px;
+	
+	border: 1px solid #828282;
+	background-color: #919191;
+	border-radius: 2px;
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+	
+	padding: 5px 0px 5px 0px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.btn:hover
+{
+	background-color: #828282;
+}
+
+.btn .btnText
+{
+	position: relative;
+	left: 30px;	
+	padding: 5px 50px 5px 50px;	
+}
+
+.sprite-download {
+    background: url(img/icons.png) no-repeat;
+    background-position: 0px 0px;
+}
+.sprite-faq {
+    background: url(img/icons.png) no-repeat;
+    background-position: 0px -82px;
+}
+.sprite-forum {
+    background: url(img/icons.png) no-repeat;
+    background-position: 0px -164px;
+}
+.sprite-gettingStarted {
+    background: url(img/icons.png) no-repeat;
+    background-position: 0px -244px;
+}
+.sprite-projects {
+    background: url(img/icons.png) no-repeat;
+    background-position: 0px -318px;
+}
+.sprite-tutorials {
+    background: url(img/icons.png) no-repeat;
+    background-position: 0px -400px;
+}
+

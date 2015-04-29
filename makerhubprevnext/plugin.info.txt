@@ -1,0 +1,7 @@
+base makerhubprevnext
+author Sam Kristoff
+email admin@labviewmakerhub.com
+date 04-2015
+name MakerHub Previous/Next Button
+desc MakerHub Previous/Next Button Plugin
+url www.github.com/makerhub

@@ -1,0 +1,71 @@
+.makerhubTileSet
+{
+	margin-left: auto;
+    margin-right: auto;
+	width: 80%;
+}
+
+
+.makerhubTile
+{
+	position: relative;
+    width: 225px;
+    height: 175px;
+	max-height: 245px;
+    float: left;
+    margin: 10px 10px 30px 10px;
+	overflow: hidden;
+}
+
+.makerhubTile .box
+{
+    display: block;
+	position: relative;
+	width: 225px;
+    height: 135px;
+	padding: 10px 10px 100px 10px;
+	
+    text-decoration: none;
+    color: white;
+}
+.makerhubTile .box .overlay
+{
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    
+    background:rgba(0,0,0,.80);
+    -webkit-transition: opacity .25s ease;
+    -moz-transition: opacity .25s ease;
+    opacity: 0;
+    
+    text-align:center;    
+	padding: 20px 15px 20px 15px;
+}
+
+.makerhubTile .overlay:hover
+{
+    opacity: 1;
+}
+
+.makerhubTile .name
+{
+    width: 100%;    
+    text-align:center;
+	
+}
+
+.makerhubTile .name h4
+{
+    position: relative;
+    padding: 2px 0px 0px 0px;
+	font-size: 1em;
+}
+
+.clearFloat
+{
+	clear: both;
+}

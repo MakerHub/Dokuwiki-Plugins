@@ -1,0 +1,7 @@
+base makerhubtile
+author Sam Kristoff
+email admin@labviewmakerhub.com
+date 03-2015
+name MakerHub Tile
+desc MakerHub Generic Tile Plugin
+url www.github.com/makerhub

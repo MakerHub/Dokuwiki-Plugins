@@ -1,0 +1,7 @@
+base makerhubpagetile
+author Sam Kristoff
+email admin@labviewmakerhub.com
+date 01-2015
+name MakerHub Page Tile
+desc MakerHub Page Tile Plugin
+url www.github.com/makerhub

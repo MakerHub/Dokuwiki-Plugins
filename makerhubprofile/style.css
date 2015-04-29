@@ -1,0 +1,40 @@
+.makerhubProfile
+{
+
+}
+
+.makerhubProfile .name
+{
+	font-size: 2em;
+}
+
+.makerhubProfile .thumbnail
+{
+	width: 20%;
+	float: left;
+	margin-right: 20px;
+	border-width: 0px;
+}
+
+.makerhubProfile .overview
+{
+	width: 75%;
+	float: left;
+
+}
+
+.makerhubProfile .links
+{
+	clear: both;
+	margin-left: auto;
+    margin-right: auto;
+	font-weight: 400;
+}
+
+.clearFloat
+{
+	clear: both;
+}
+
+
+

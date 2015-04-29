@@ -1,0 +1,7 @@
+base makerhubincludepagetile
+author Sam Kristoff
+email admin@labviewmakerhub.com
+date 01-2015
+name MakerHub Include Page Tile
+desc MakerHub Include Page Tile Plugin
+url www.github.com/makerhub

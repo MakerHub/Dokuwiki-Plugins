@@ -1,0 +1,29 @@
+<div class="makerhubShare">
+	<h1>{NAME}</h1>
+	<form name="shareForm" action="share_handler.php" onsubmit="return validateShareForm()" method="post">  		
+			<div>
+				<span class="inputLabel"> Name: </span><br />
+				<input type="text" name="name"> <br /><br />
+				<span class="inputLabel"> Email: </span><br />
+				<input type="text" name="email"><br /><br />
+				<span class="inputLabel"> Project Name: </span><br />
+				<input type="text" name="projectName"><br /><br />
+				<span class="inputLabel"> Youtube or Image Link: </span><br />				
+				<input type="text" name="mainLink"><span class="subtext">&nbsp;&nbsp;A picture is worth a thousand words, and a video is thousands of pictures.  Share a video if you can!</span><br /><br /><br />
+				
+			
+			
+			
+			<span class="inputLabel"> Project Description: </span>
+			<span class="subtextRight">Give an overview of your project.</span>
+			<textarea rows="10" cols="40" name="description"></textarea><br /><br />
+			
+			<span class="inputLabel"> Additional Links: </span>
+			<span class="subtextRight">Links to source code, circuit schematics, your website, etc.</span>
+			<textarea rows="5" cols="40" name="links"></textarea><br /><br />
+			</div>
+		<br />
+		<input type="submit" value="Share">
+	</form>
+</div>
+

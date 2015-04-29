@@ -1,0 +1,7 @@
+base makerhublandingpage
+author Sam Kristoff
+email admin@labviewmakerhub.com
+date 01-2015
+name MakerHub Landing Page Template
+desc MakerHub Landing Page Template
+url www.github.com/makerhub

@@ -1,0 +1,33 @@
+.makerhubShare
+{
+
+}
+
+.makerhubShare .inputLabels
+{
+	float:left;
+}
+
+.makerhubShare .inputFields
+{
+	float:left;
+}
+
+.makerhubShare .inputLabel
+{
+	font-weight: bold;
+}
+
+.makerhubShare .subtext
+{
+	font-style: italic;
+	font-size: 85%;
+}
+
+.makerhubShare .subtextRight
+{
+	font-style: italic;
+	font-size: 85%;
+	float: right;
+
+}

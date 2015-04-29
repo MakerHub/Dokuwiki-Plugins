@@ -1,0 +1,7 @@
+base makerhubshare
+author Sam Kristoff
+email admin@labviewmakerhub.com
+date 03-2015
+name MakerHub Share
+desc MakerHub Share Plugin
+url www.github.com/makerhub
